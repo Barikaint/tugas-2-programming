@@ -1,0 +1,133 @@
+body {
+    font-family: Arial;
+}
+
+
+.content-1{
+    flex-basis: 100%;
+}
+.content-2{
+    flex-basis: 1100px;
+}
+.content-3{
+    flex-basis: 100%;
+}
+.content-4{
+    flex-basis: 400px;
+    margin-left: 100px;
+}
+
+.container {
+    width:100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    font-display: row ;
+}
+
+.content {
+    flex-basis: 400px;
+}
+
+.menu-button {
+    margin-bottom: 5px;
+    font-size: 18px;
+    text-align: center;
+    background-color:black;
+    color: white;
+    padding: 10px;
+}
+button{
+    border: none
+}
+
+
+.card{
+   margin-bottom: 20px;
+   margin-left: 5px;
+   margin-right: 5px;
+   font-size: 12px;
+}
+.card-3{
+    background-color:black;
+}
+.card-2{
+   line-height: 30px;
+   width: 100%;
+   height: auto;
+  padding: 20px;
+ 
+}
+.card-4{
+    margin-top: 100px;
+}
+
+.card-header {
+   background-color: rgb(0, 0, 0);
+   color: white;
+   font-weight : bold;
+   width: 100%;
+   text-align: center;
+   font-size: 15px;
+   
+}
+.card-header-3{
+}
+
+.card-title{
+   padding: 6px;
+
+}
+.card-title-2{
+    color: grey;
+}
+
+.card-content,.card-content-3{
+   padding: 5px;
+   width: 100%;
+   height: auto;
+}
+.card-content-2{
+    text-align: center;
+    padding: 50px;
+
+    background-color: lightgrey;
+}
+.card-content-3{
+background-color:black;
+}
+.content-image{
+    width: 100%;
+    height: auto
+
+}
+.content-image-2{
+    width: 100%;
+    height: auto;
+}
+
+.semi-content{
+    text-align: center;
+
+}
+.card-title-2{
+color: darkgray;
+font-size: large;
+}
+.card-title-3{
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    font-size: x-large;
+    background-color:black;
+}
+  
+.card-header-1{
+    background-color: rgb(0, 0, 0);
+    color: white;
+    font-weight : bold;
+    width: 100%;
+    text-align: center;
+    font-size: 60px; 
+    margin-bottom: 20px;
+}
